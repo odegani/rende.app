@@ -1,0 +1,35 @@
+{
+  "id": "./",
+  "name": "Rende! — Economia Doméstica",
+  "short_name": "Rende!",
+  "description": "Gestor doméstico inteligente para controle de despensa (PEPS), marmitas, lista de compras, notas fiscais e botijão de gás.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F7F3EC",
+  "theme_color": "#2D5016",
+  "lang": "pt-BR",
+  "dir": "ltr",
+  "categories": [
+    "finance",
+    "food",
+    "lifestyle",
+    "utilities"
+  ],
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
